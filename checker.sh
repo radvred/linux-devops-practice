@@ -8,3 +8,4 @@ else
 echo "ERROR"
 fi
 echo "Version from main"
+echo "Version from test-branch"
