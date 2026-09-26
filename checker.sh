@@ -7,3 +7,4 @@ echo "OK"
 else 
 echo "ERROR"
 fi
+echo "Version from main"
